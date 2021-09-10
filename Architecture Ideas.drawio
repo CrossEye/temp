@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T20:18:32.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0CSlgTjxpGY175fORV5Q" version="15.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-10T20:41:21.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0JniWYc34YjUxQodolZA" version="15.1.4" type="github" pages="2">
   <diagram id="1Dz7WOy2FfaXCJ-6_X1h" name="Architects POV">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -305,6 +305,24 @@
         </mxCell>
         <mxCell id="maUdmF0B42aCXH4_RcYf-30" value="&lt;i&gt;Innovation&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="vm9dkruRYCmrjaV8t3G5-1" vertex="1">
           <mxGeometry x="25" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect C)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="624" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect C)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="212" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-4" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect B)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="419" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-5" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect B)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="419" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect A)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="619" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH0Fj-uWN1yjApOLT4CK-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Architect A)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vm9dkruRYCmrjaV8t3G5-1">
+          <mxGeometry x="219" y="480" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
